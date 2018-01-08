@@ -7,6 +7,30 @@
         ["lmplot", "Plot data and regression model fits across a FacetGrid."],
         ["PairGrid", "Subplot grid for plotting pairwise relationships in a dataset."],
         ["pairplot", "Plot pairwise relationships in a dataset"],
-        ["JointGrid", "Grid for drawing a bivariate plot with marginal univariate plots."]
+        ["JointGrid", "Grid for drawing a bivariate plot with marginal univariate plots."],
+        ["jointplot", "Draw a plot of two variables with bivariate and univariate graphs."],
+
+        ["stripplot", "Draw a scatterplot where one variable is categorical."],
+        ["swarmplot", "Draw a categorical scatterplot with non-overlapping points."],
+        ["boxplot", "Draw a box plot to show distributions with respect to categories."],
+        ["violinplot", "Draw a combination of boxplot and kernel density estimate."],
+        ["lvplot", "Draw a letter value plot to show distributions of large datasets."],
+        ["pointplot", "Show point estimates and confidence intervals using scatter plot glyphs."],
+        ["barplot", "Show point estimates and confidence intervals as rectangular bars."],
+        ["countplot", "Show the counts of observations in each categorical bin using bars."],
+
+        ["distplot", "Flexibly plot a univariate distribution of observations."],
+        ["kdeplot", "Fit and plot a univariate or bivariate kernel density estimate."],
+        ["rugplot", "Plot datapoints in an array as sticks on an axis."],
+
+        ["regplot", "Plot data and a linear regression model fit."],
+        ["residplot", "Plot the residuals of a linear regression."],
+
+        ["heatmap", "Plot rectangular data as a color-encoded matrix."],
+        ["clustermap", "Plot a matrix dataset as a hierarchically-clustered heatmap."],
+
+        ["tsplot", "Plot one or more timeseries with flexible representation of uncertainty."],
+
+        ["palplot", "Plot the values in a color palette as a horizontal array."]
     ]
 }
