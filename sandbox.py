@@ -8,7 +8,9 @@ app = Flask(__name__)
 
 @app.route('/')
 def test():
-    with open('dev-python/seaborn/api-reference.json') as f:
+    #with open('dev-python/seaborn/api-reference.json') as f:
+    #with open('mooc-coursera/game-theory-1/terms.json') as f:
+    with open('nat-hanja/thousand/hanja-to-meaning.json') as f:
         data = json.loads(f.read(), encoding='utf-8')
     cards = data['cards']
     card = random.choice(cards)
