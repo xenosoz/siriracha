@@ -1,0 +1,81 @@
+{
+    "title": "Amazon Web Services",
+    "source": "https://us-west-2.console.aws.amazon.com/console",
+    "cards": [
+        ["Amazon EC2", "Amazon Elastic Computing Cloud. A web service that provides compute capacity in the cloud. https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html #amazon-compute"],
+        ["Amazon Lightsail", "Virtual Private Server. https://aws.amazon.com/ko/blogs/korea/amazon-lightsail-the-power-of-aws-the-simplicity-of-a-vps/ #amazon-compute"],
+        ["Amazon ECS", "Amazon Elastic Container Service. Docker container applications. https://aws.amazon.com/ecs/features/ #amazon-compute"],
+        ["Amazon Lambda", "#amazon-compute"],
+        ["Amazon Batch", "#amazon-compute"],
+        ["Amazon Elastic Beanstalk", "#amazon-compute"],
+
+        ["Amazon S3", "#amazon-storage"],
+        ["Amazon EFS", "#amazon-storage"],
+        ["Amazon Glacier", "#amazon-storage"],
+        ["Amazon Storage Gateway", "#amazon-storage"],
+
+        ["Amazon RDS", "Amazon Relational Database Service"],
+        ["DynamoDB", ""],
+        ["ElastiCache", ""],
+        ["Amazon Redshift", ""],
+
+        ["AWS Migration Hub", ""],
+        ["Application Discovery Service", ""],
+        ["Database Migration Service", ""],
+        ["Server Migration Service", ""],
+        ["Snowball", ""],
+
+        ["VPC", ""],
+        ["CloudFront", ""],
+        ["Route 53", ""],
+        ["API Gateway", ""],
+        ["Direct Connect", ""],
+
+        ["CodeStar", ""],
+        ["CodeCommit", ""],
+        ["CodeBuild", ""],
+        ["CodeDeploy", ""],
+        ["CodePipeline", ""],
+        ["Cloud9", ""],
+        ["X-Ray", ""]
+
+        ["CloudWatch", ""],
+        ["AWS Auto Scaling", ""],
+        ["CloudFormation", ""],
+        ["CloudTrail", ""],
+        ["Config", ""],
+        ["OpsWorks", ""],
+        ["Service Catalog", ""],
+        ["Systems Manager", ""],
+        ["Trusted Advisor", ""],
+        ["Managed Services", ""]
+        
+        ["Elastic Transcoder", ""],
+        ["Kinesis Video Streams", ""],
+        ["MediaConvert", ""],
+        ["MediaLive", "#amazon-media-services"],
+        ["MediaPackage", "#amazon-media-services"],
+        ["MediaStore", "#amazon-media-services"],
+        ["MediaTailor", "#amazon-media-services"]
+
+        ["Amazon SageMaker", "#amazon-machine-learning"],
+        ["Amazon Comprehand", "#amazon-machine-learning"],
+        ["AWS DeepLens", "#amazon-machine-learning"],
+        ["Amazon Lex", "#amazon-machine-learning"],
+        ["Machine Learning", "#amazon-machine-learning"],
+        ["Amazon Polly", "#amazon-machine-learning"],
+        ["Rekognition", "#amazon-machine-learning"],
+        ["Amazon Transcribe", "#amazon-machine-learning"],
+        ["Amazon Translate", "#amazon-machine-learning"],
+
+        ["Amazon Athena", "#amazon-analytics"],
+        ["Amazon EMR", "#amazon-analytics"],
+        ["Amazon CloudSearch", "#amazon-analytics"],
+        ["Elasticsearch Service", "#amazon-analytics"],
+        ["Kinesis", "#amazon-analytics"],
+        ["QuickSight", "#amazon-analytics"],
+        ["Data Pipeline", "#amazon-analytics"],
+        ["AWS Glue", "#amazon-analytics"]
+    ],
+    "_compute": "https://aws.amazon.com/products/compute"
+}
